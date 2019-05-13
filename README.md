@@ -4,7 +4,7 @@ An web service for converting audio/video files using Nodejs, Express and FFMPEG
 
 ## Docker image
 
-https://hub.docker.com/r/frederiksen/docker-ffmpeg-service/
+https://hub.docker.com/r/gnaudio/docker-ffmpeg-service
 
 ## Endpoints
 
